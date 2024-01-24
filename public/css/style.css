@@ -17,7 +17,7 @@ body {
 
 /*title*/
 h1 {
-  margin-top: -40px;
+  margin-top: -30px;
   margin-bottom: 30px;
   font-family: 'Press Start 2P', system-ui;
   color: white ;
@@ -39,7 +39,7 @@ h1 {
 	max-width: 1200px;
 	width: 100%;
   padding: 2rem 1rem;
-  height: 60%;
+  height: 65%;
   background-color: #0f0101;
   border: 2px solid transparent;
   border-radius: 10px;
